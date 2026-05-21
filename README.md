@@ -98,7 +98,7 @@ We are looking for dedicated developers, cryptographers, and freedom-advocates t
 This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)** — open source, copyleft, and permanently dedicated to the collective advancement and financial freedom of humanity.
 
 
-Version 1.21.5.2026 👇
+Version 1.1.21.5.2026 👇
 
 # The MAN Protocol (`$MAN`)
 
@@ -204,3 +204,86 @@ We are looking for dedicated developers, cryptographers, and freedom-advocates t
 ## 📄 License
 This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)** — open source, copyleft, and permanently dedicated to the collective advancement and financial freedom of humanity.
 
+Version 1.2.21.5.2026 👇
+
+
+# The MAN Protocol (`$MAN`)
+
+> **There is only one humanity. There is only one coin.**
+
+The MAN Protocol is an open-source, sovereign, decentralized economic network built to establish a perfectly equal, uncheatable, and non-inflationary Universal Basic Income (UBI) for all human beings.
+
+---
+
+## 🌌 Core Philosophy (Layer 0)
+
+By anchoring economic value to the only resource distributed equally to every human being on Earth—**Time**—MAN resets the financial paradigm, ensuring absolute equality through decentralized, non-inheritable, and self-sustaining economic value.
+
+---
+
+## 🛠️ System Architecture & Tokenomics (Layers 1 & 2)
+
+### 1. Absolute Token Scarcity (`Supply = 1.00`)
+* **Hard Cap:** Exactly 1.00 MAN coin exists, with zero inflation.
+* **Hyper-Divisibility:** The network uses an infinite fractional math framework to scale without new token creation.
+
+### 2. Standalone Python Scientific Notation Engine
+Balances are calculated using a `Mantissa × 10^-Scale` architecture via a Python engine, allowing for extreme precision (86,418+ decimal places) independent of standard 18-decimal limits.
+* **Scale Mechanic:** `GlobalScale` increments by one unit per second (`Base_Scale + Elapsed_Seconds`).
+
+### 3. The 24-Hour Fairness Distribution Pool
+To eliminate time-zone bias, the daily pool is split equally ($Pool / N$) among all verified humans, regardless of when they check in.
+
+---
+
+## 🛡️ Identity, Accessibility & Anti-Sybil Security Matrix (Layers 3, 4, & 5)
+
+### 1. Multi-Layered "Proof-of-Life" Verification
+Daily interaction requires live, randomized liveness checks to prevent bot activity.
+
+### 2. Device-Independent Multi-Finger Hand Scan
+To bypass privacy limitations, the system uses a rear-camera, high-brightness macro shot of both hands to create a unique physiological map.
+* **Multi-Finger Match:** Validates with a minimum of 3 finger matches, including at least one on each hand.
+
+### 3. Absolute Limb & Amputation Exemption Pathway
+For users without limbs, the system automatically triggers a `FINGER_COUNT_EXEMPT` flag, switching to high-res Iris/Retina recognition.
+
+### 4. Local Cryptographic Hashing & Secure Data Purge
+Raw biometric data is processed in local RAM and immediately destroyed, ensuring privacy with only `MATCH / NO MATCH` records sent to the ledger.
+
+### 5. Automated Asset Repossession Protocol
+Detected duplicate accounts or Sybil attacks trigger a protocol-level clawback, returning 100% of unspent MAN from fraudulent profiles to the pool.
+
+---
+
+## ⚙️ Federated Validation, Sandboxing, & Data States (Layers 7, 8, 9 & 11)
+
+### 1. Disposable Sandbox Generation
+Validation occurs within non-persistent, isolated environments that immediately self-destruct.
+
+### 2. Redundant Validation Engine
+Transactions pass through a 6-script validation chain (Reconstruction, Recalculation, Verification, Consensus, Integrity, Sandbox).
+
+### 3. Federated Regional Nuclei Consensus
+Global governance is managed by a 4/5 Supermajority across 5 regional nuclei (Africa, Europe, Asia, Americas, Oceania).
+
+### 4. Tiered State Temperature Storage
+Data is segregated into **Hot** (live balances), **Warm** (recent audit logs), and **Cold** (historical archives) for optimized performance.
+
+---
+
+## 🛒 The Closed-Loop Hyper-Deflationary Marketplace (Layer 13)
+
+### 1. Total Banking Isolation
+MAN is non-exchangeable with fiat or external crypto, creating an isolated, self-sustaining P2P economy.
+
+### 2. The Hyper-Deflationary Price-Drop Engine
+Market prices drop by 100,000 zeros per day, faster than the token expansion rate, creating a compounding increase in purchasing power.
+
+### 3. The Death Audit (Perpetual Circulation)
+Inactive wallets are flagged, and unspent balances are reclaimed for the public pool, ensuring wealth recycling.
+
+---
+
+## 📄 License
+Licensed under **GNU General Public License v3.0 (GPL-3.0)**.
